@@ -1,2 +1,2 @@
-# JavaScript-S01-267
+# JavaScript
 To study java script
