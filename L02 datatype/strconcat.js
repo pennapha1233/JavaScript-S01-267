@@ -1,4 +1,4 @@
-let str1 = "HEllo";
+let str1 = "Hello";
 let str2 = "World!";
 
 //Using the + operator
