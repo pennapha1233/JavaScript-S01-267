@@ -12,7 +12,7 @@ printHello(); // Prints: hello
 
 // Arrow function with a single argument
 const checkWeight = (weight) => {
-    console.log('Baggage weight : ${weight} kilogram.');
+    console.log(`Baggage weight : ${weight} kilogram.`);
 };
 checkWeight(25); // Prints: Baggage weight : 25 kilograms.
 
