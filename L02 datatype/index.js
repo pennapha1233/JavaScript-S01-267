@@ -8,4 +8,5 @@ console.log ('Hello, World!');
 console.log('Hello, %s!' , place);
 
 // using a string literal
-console.log('${message}, ${place}!');
+console.log(`${message}, ${place}!`);
+
