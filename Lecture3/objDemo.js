@@ -1,5 +1,4 @@
 /* START */
-
 // How can you represent real-world objects in code?
 // They have associated attributes = object PROPERTIES
 // They have associated actions = object METHOD
@@ -21,5 +20,3 @@ cons book = {
     author: "George Orwell",
     isAvailable: flase
 }: */
-
-

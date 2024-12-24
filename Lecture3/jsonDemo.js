@@ -6,15 +6,11 @@
  * STRINGIFY    : Javascript to JSON
  * PARSE        : JSON to JavaScript
  *****************************************************/
-
-
 // Think of a simple JavaScript object with data (property value)
 const book = new object({ title : "1984",author: "George Orwell"});
 console.log("\n ========")
 console.log(typeof book);
 console.log(book);
-
-
 /*
 // You can also have a collection of these objects
 const myBooks = [

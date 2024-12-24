@@ -5,7 +5,6 @@ const cat = {
         return this.name;
     },
 };
-
 console.log(cat.whatName());
 // Output: Pipay
 cat.name = "Nezzar";
