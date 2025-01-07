@@ -7,17 +7,17 @@ function logError(theException) {
 }
 
 // Try..Catch
-console.log("/n********Try..Catch********\n");
+console.log("\n********Try..Catch********\n");
 
 try {
     criticalCode();
 } catch (ex) {
-    console.log("Got anerror");
+    console.log("Got an error");
     logError(ex);
 }
 
 // Throwing in Try..Catch
-console.log("\n********Throwing in Try..Catch********\m")
+console.log("\n********Throwing in Try..Catch********\n")
 
 try {
     throw "An exception that is throw every time";
