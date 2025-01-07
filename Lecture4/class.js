@@ -1,7 +1,7 @@
 class Song {
     constructor() {
         this.title;
-        title.author;
+        this.author;
     }
 
     play() {
