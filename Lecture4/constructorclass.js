@@ -1,7 +1,7 @@
 class Song {
     constructor(title, artist) {
         this.title = title;
-        title.artist = artist;
+        this.artist = artist;
     }
 }
 
